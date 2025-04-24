@@ -71,6 +71,16 @@ granting permission right to file docker.sh to execute
 
 ![](./img/job%20done.png)
 
+![](./img/11.%20console%20output%20success.png)
+
+
+![](./img/11.%20console%20output%20success%201.png)
+
+
+
+![](./img/11.%20console%20output%20success%202.png)
+
+
 11. Defined inbound rules to allow port 8081 to access index.html
 ![](./img/sg.png)
 
@@ -78,3 +88,9 @@ granting permission right to file docker.sh to execute
 
 ![](./img/12.%20Testing%20app.png)
 
+
+## Challenges:
+
+ I had an output error pointing to permission denied while trying to build docker image. it was noted and proper permission was granted. 
+
+![](./img/11.%20console%20output%20error.png)
